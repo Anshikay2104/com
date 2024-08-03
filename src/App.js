@@ -71,7 +71,7 @@ const App = () => {
                         <img src="Jeweller_one (1).jpg" alt="" />
                         <div className="des">
                             <span>Malabaar</span>
-                            <h5>Gold Necklace</h5>
+                            <h5>Diamond Necklace</h5>
                             <div className="star">
                                 <i className="fas fa-star"></i>
                                 <i className="fas fa-star"></i>
@@ -79,7 +79,7 @@ const App = () => {
                                 <i className="fas fa-star"></i>
                                 <i className="fas fa-star"></i>
                             </div>
-                            <h4>$78</h4>
+                            <h4>Rs. 78000</h4>
                         </div>
                         <a href="#"><i className="fal fa-shopping-cart cart"></i></a>
                     </div>
@@ -96,12 +96,66 @@ const App = () => {
                                 <i className="fas fa-star"></i>
                                 <i className="fas fa-star"></i>
                             </div>
-                            <h4>$78</h4>
+                            <h4>Rs. 90000</h4>
                         </div>
                         <a href="#"><i className="fal fa-shopping-cart cart"></i></a>
                     </div>
                     <div className="pro" onClick={() => window.location.href = '#'}>
                         <img src="Jewellery_three (1).jpg" alt="" />
+                        <div className="des">
+                            <span>Malabaar</span>
+                            <h5>Gold Bangles</h5>
+                            <div className="star">
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                            </div>
+                            <h4>Rs. 40000</h4>
+                        </div>
+                        <a href="#"><i className="fal fa-shopping-cart cart"></i></a>
+                    </div>
+                    <div className="pro" onClick={() => window.location.href = '#'}>
+                        <img src="Jewellery_four (1).jpg" alt="" />
+                        <div className="des">
+                            <span>Malabaar</span>
+                            <h5>Gold Bangles</h5>
+                            <div className="star">
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                            </div>
+                            <h4>Rs. 34000</h4>
+                        </div>
+                        <a href="#"><i className="fal fa-shopping-cart cart"></i></a>
+                    </div>
+                </div>
+            </section>
+            <section id="product1" className="section-p1">
+                
+                <div className="pro-container">
+                    <div className="pro" onClick={() => window.location.href = '#'}>
+                        <img src="Jewellery_five (1).jpg" alt="" />
+                        <div className="des">
+                            <span>Malabaar</span>
+                            <h5>Gold Bangles</h5>
+                            <div className="star">
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                            </div>
+                            <h4>Rs. 23500</h4>
+                        </div>
+                        <a href="#"><i className="fal fa-shopping-cart cart"></i></a>
+                    </div>
+                    {/* Add other product elements similarly */}
+                    <div className="pro" onClick={() => window.location.href = '#'}>
+                        <img src="Jewellery_six (1).jpeg" alt="" />
                         <div className="des">
                             <span>Malabaar</span>
                             <h5>Gold Necklace</h5>
@@ -112,12 +166,28 @@ const App = () => {
                                 <i className="fas fa-star"></i>
                                 <i className="fas fa-star"></i>
                             </div>
-                            <h4>$78</h4>
+                            <h4>Rs. 80000</h4>
                         </div>
                         <a href="#"><i className="fal fa-shopping-cart cart"></i></a>
                     </div>
                     <div className="pro" onClick={() => window.location.href = '#'}>
-                        <img src="Jewellery_four (1).jpg" alt="" />
+                        <img src="Jewellery_seven (1).jpg" alt="" />
+                        <div className="des">
+                            <span>Malabaar</span>
+                            <h5>Gold Necklace</h5>
+                            <div className="star">
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                            </div>
+                            <h4>Rs. 76000</h4>
+                        </div>
+                        <a href="#"><i className="fal fa-shopping-cart cart"></i></a>
+                    </div>
+                    <div className="pro" onClick={() => window.location.href = '#'}>
+                        <img src="Jewellery_eight (1).jpg" alt="" />
                         <div className="des">
                             <span>Malabaar</span>
                             <h5>Gold Necklace</h5>
@@ -135,6 +205,76 @@ const App = () => {
                 </div>
             </section>
 
+            <section id="product1" className="section-p1">
+                <div className="pro-container">
+                    <div className="pro" onClick={() => window.location.href = '#'}>
+                        <img src="Jewellery_nine (1).jpg" alt="" />
+                        <div className="des">
+                            <span>Malabaar</span>
+                            <h5>Gold Necklace</h5>
+                            <div className="star">
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                            </div>
+                            <h4>Rs. 65000</h4>
+                        </div>
+                        <a href="#"><i className="fal fa-shopping-cart cart"></i></a>
+                    </div>
+                    {/* Add other product elements similarly */}
+                    <div className="pro" onClick={() => window.location.href = '#'}>
+                        <img src="Jewellery_ten (1).jpeg" alt="" />
+                        <div className="des">
+                            <span>Malabaar</span>
+                            <h5>Gold Necklace</h5>
+                            <div className="star">
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                            </div>
+                            <h4>Rs. 67500</h4>
+                        </div>
+                        <a href="#"><i className="fal fa-shopping-cart cart"></i></a>
+                    </div>
+                    <div className="pro" onClick={() => window.location.href = '#'}>
+                        <img src="Jewellery_Eleven (1).jpg" alt="" />
+                        <div className="des">
+                            <span>Malabaar</span>
+                            <h5>Gold Necklace</h5>
+                            <div className="star">
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                            </div>
+                            <h4>Rs. 78000</h4>
+                        </div>
+                        <a href="#"><i className="fal fa-shopping-cart cart"></i></a>
+                    </div>
+                    <div className="pro" onClick={() => window.location.href = '#'}>
+                        <img src="Jewellery_Twelve (1).jpg" alt="" />
+                        <div className="des">
+                            <span>Malabaar</span>
+                            <h5>Gold Necklace</h5>
+                            <div className="star">
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                                <i className="fas fa-star"></i>
+                            </div>
+                            <h4>Rs. 98000</h4>
+                        </div>
+                        <a href="#"><i className="fal fa-shopping-cart cart"></i></a>
+                    </div>
+                </div>
+            </section>
+
             <section id="banner" className="section-m1">
                 <h4>Repair Service</h4>
                 <h2>Up to <span>15% off </span> - All Jewelleries and Accessories</h2>
@@ -146,7 +286,7 @@ const App = () => {
                 <p>Summer Collection New Modern Design</p>
                 <div className="pro-container">
                     <div className="pro">
-                        <img src="Jewellery_nine (1).jpg" alt="" />
+                        <img src="Jewellery_twelve (1).jpg" alt="" />
                         <div className="des">
                             <span>Tanishq</span>
                             <h5>Tanishq Jewelleries</h5>
